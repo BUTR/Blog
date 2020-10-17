@@ -1,7 +1,7 @@
 baseURL = "https://butr.github.io/blog/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "BUTR blog"
+title = "BUTR Blog"
 theme = "hugo-tranquilpeak-theme"
 # disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
