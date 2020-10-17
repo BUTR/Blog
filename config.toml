@@ -164,5 +164,5 @@ canonifyurls = true
   #   url = "/#about"
 
   # Customize copyright value "© 2017 <CUSTOMIZATION>. All Rights Reserved"
-  [params.footer]
-    copyright = "© 2020 BUTR Blog. All Rights Reserved"
+  # [params.footer]
+  #   copyright = ""
